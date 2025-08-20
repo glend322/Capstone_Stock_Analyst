@@ -33,15 +33,24 @@ AI dipakai untuk meringkas berita finansial panjang menjadi insight singkat. Con
   #Berita negatif terkait regulasi atau inflasi menekan harga saham.
 -AI summarization membuat berita panjang lebih mudah dipahami, misalnya ringkasan 2–3 kalimat tentang kondisi sektor perbankan bulan ini.
 
-6. Conclusion & Recommendation
+7. Conclusion & Recommendation
 Berdasarkan analisis, beberapa rekomendasi untuk investor pemula adalah:
 -Fokus pada saham bluechip (seperti BBCA & BBRI) karena volatilitas lebih rendah dibanding saham second liner.
 -Gunakan sentimen berita sebagai pelengkap analisis harga. Jika berita mayoritas positif, potensi kenaikan lebih besar.
 -Gunakan AI insight sebagai panduan awal, tetapi tetap kombinasikan dengan analisis pribadi sebelum membeli.
 -Mulailah dengan jumlah investasi kecil sambil belajar membaca pola pasar.
 
-7. AI Support Explanation
+8. AI Support Explanation
 -AI (IBM Granite) meringkas berita menjadi insight singkat, sehingga investor pemula tidak kewalahan.
 -AI membantu memberi label positif/negatif/netral pada berita.
 -Investor pemula bisa menghemat waktu, mendapatkan gambaran pasar dengan cepat, dan membuat keputusan lebih percaya diri.
 -Dengan demikian, AI bukan menggantikan investor, tapi memberi alat bantu pintar agar pemula bisa memulai investasi dengan informasi yang lebih jelas.
+-Contoh output yang dihasilkan dengan AI (IBM Granite):
+    - **Pilih saham dengan harga rata-rata yang relatif terjangkau**, seperti BBRI dengan harga rata-rata sekitar 3801.36.
+    - **Dengan fokus pada saham-saham dengan potensi untuk kemajuan**, seperti BBCA dan IHSG yang memiliki harga maksimum yang lebih tinggi.
+    - **Hindari saham dengan volatilitas tinggi** seperti TLKM, meskipun harga rata-rata mereka terjangkau.
+    - **Fokus pada jangka waktu pendek (hanya Juli 2025 dan sebelumnya)**.
+    - **Sebaran investasi** bersama beberapa saham untuk mengurangi risiko. Misalnya, 40% investasi ke BBRI, 30% ke BBCA, dan 30% ke IHSG.
+    - **Pertimbangkan sentimen publik**, seperti yang ditunjukkan pada kolom 'Sentimen_Score', tetapi ingat bahwa sentimen publik hanya satu dari banyak faktor             yang harus dipertimbangkan.
+    - **Hindari membuat keputusan investasi berdasarkan data sebelumnya seperti tahun 2019-Agustus 2025**. Jangan menggunakan informasi harga yang sudah lewat              untuk membuat prediksi.
+    - **Pastikan untuk mengelola risiko** dengan hanya menginvestasikan dana yang Anda tangguhkan kehilangan, karena pasar saham memiliki risiko.
